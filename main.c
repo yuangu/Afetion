@@ -24,7 +24,7 @@ int main()
     toChat(info);
 
 
-    sendMsgBymobileNo(info, "13699530306",  "zhai gan sha!");
+    sendMsgBymobileNo(info, "10086",  "zhai gan sha!");
 
     return 0;
 }
